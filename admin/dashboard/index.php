@@ -32,21 +32,6 @@
 			</div>
 		</div>
 	</div>
-	<div class="row">
-		<div class="col-md-3">
-			<div class="thumbnail text-center" >
-				<h4>Add Sub Category<h4>
-				<a href="addsubcategory.php" class="btn btn-info"><i class="fas fa-plus-square" ></i> Add Sub Category</a>
-				<div style="clear:both;"></div>
-			</div>
-		</div>
-		<div class="col-md-3">
-			<div class="thumbnail text-center" >
-				<h4>View/Edit Sub Category<h4>
-				<a href="editsubcategory.php" class="btn btn-warning"><i class="fas fa-edit" ></i> View/Edit Sub Category</a>
-				<div style="clear:both;"></div>
-			</div>
-		</div>
-	</div>
+	
 </div>
 <?php require_once 'inc/footer.php'; ?>
