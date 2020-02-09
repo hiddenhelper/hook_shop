@@ -1,0 +1,14 @@
+@media (min-width: 320px) and (max-width: 360px){
+	.logo {
+		width: 230px;
+	}
+	.carousel-control {
+		width: 8%;
+	}
+}
+@media (max-width: 768px){
+	.timeline {
+	
+		padding:3em 0em 3em; 
+	}
+}
