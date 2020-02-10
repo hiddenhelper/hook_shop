@@ -94,7 +94,7 @@ $array3 = $products3->fetchAll();
 
 <section>
 	<div class="container">
-	<h1 class="text-center color-black heading"><b>PRODUCTS</b></h1><br><br>
+	<h1 class="text-center color-black heading"><b> PRODUCTS </b></h1><br><br>
 	   <div class="text-center">
 	    <div class="col-md-3">
             <div class="thumbnail shadow">	        
