@@ -13,6 +13,7 @@ $array = $products->fetchAll();
 $array2 = $products2->fetchAll();
 $array3 = $products3->fetchAll();
 ?>
+
 <div class="hidden-xs">
 	<!-- Carousel -->
     	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -43,6 +44,7 @@ $array3 = $products3->fetchAll();
 		    	<img src="assets/images/banner-5.png" alt="fifth slide">
 		    </div>
 		</div>
+		
 		<!-- Controls -->
 		<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
 	    	<span class="glyphicon glyphicon-chevron-left"></span></a>
